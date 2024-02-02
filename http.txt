@@ -1,0 +1,21 @@
+Protocol for Web Communication: HTTP is the foundation of data communication on the web, allowing the transfer of hypertext, multimedia, and more.
+
+Client-Server Communication: It operates in a client-server model, where a client (usually a web browser) sends requests to a server, and the server responds with the requested resources.
+
+Stateless Protocol: Each request from a client to a server is independent and unrelated to previous requests. The server doesn't retain information about the client's state between requests.
+
+Connectionless: Each request and response in HTTP is separate, and the connection is closed after each exchange. This helps in simplicity and scalability.
+
+Text-Based Protocol: HTTP messages are text-based, consisting of headers and an optional body. These messages are human-readable and facilitate debugging.
+
+Methods: HTTP defines several request methods, such as GET (retrieve data), POST (submit data), PUT (update a resource), DELETE (delete a resource), etc.
+
+Status Codes: Responses from the server include status codes indicating the result of the request (e.g., 200 for success, 404 for not found, 500 for server error).
+
+URLs: Uniform Resource Locators (URLs) are used to identify and locate resources on the web. They are included in the HTTP requests.
+
+State Management: HTTP is stateless, but stateful behavior can be implemented using cookies or other mechanisms to maintain information across multiple requests.
+
+Default Port: HTTP typically operates on port 80. When used with SSL/TLS, it operates on port 443 (HTTPS).
+
+HTTPS (HTTP Secure): An extension of HTTP that adds a layer of security through SSL/TLS encryption, ensuring secure communication between the client and server.

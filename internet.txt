@@ -1,0 +1,21 @@
+Global Network: The Internet is a vast, worldwide network connecting millions of computers.
+
+Interconnected Computers: It enables communication and data exchange between diverse devices globally.
+
+Standardized Protocols: Information transfer occurs through standardized protocols ensuring compatibility.
+
+Decentralized: No single entity or organization controls the entire Internet.
+
+Mediums of Transfer: Utilizes wires, cables, and Wi-Fi for data transfer between computers.
+
+IP Addresses and DNS: Involves IP addresses and Domain Name System (DNS) for identifying and locating devices.
+
+Packets, Routing, and Reliability: Information is transferred in packets, following dynamic routes for flexibility and reliability.
+
+HTTP and HTML: HTTP (Hypertext Transfer Protocol) is the standard for transferring webpages, often utilizing HTML.
+
+Encryption and Public Keys: Cryptography, including SSL/TLS, ensures secure communication over the Internet.
+
+Cybersecurity and Crime: Involves protective measures against cybercrimes, emphasizing network and device security.
+
+Evolution: Constantly evolving with emerging technologies and innovations.
